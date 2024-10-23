@@ -1,5 +1,7 @@
 # number_guessing
-number guessing game written in Python
+number guessing game written in Python.
+
+It picks a random number from 1 to 100 and then let's the user guess the number. Each time user is getting a hint if hers/his guess was too high or too low. This way user is able to get a sense of which direction to follow next :sweat_smile:. The first prompt about the difficulty level is aimed to assign the amount of guesses: either 5 or 10.
 
 ## Intro
 
